@@ -1,1 +1,1 @@
-# aps360-project
+# APS360 Project
